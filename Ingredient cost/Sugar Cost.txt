@@ -1,1 +1,1 @@
-sugar quantity 50 cents
+sugar quantity 100 cents
